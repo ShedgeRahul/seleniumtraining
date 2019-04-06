@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <tests>
+  <test name="Test1">
+    <classes>
+      <class name="scripts.testng.TestNGConfig1"/>
+      <class name="scripts.testng.TestNGConfig2"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test2">
+    <classes>
+      <class name="scripts.testng.TestNGConfig3"/>
+      <class name="scripts.testng.TestNGConfig4"/>
+    </classes>
+  </test> <!-- Test -->
+ </tests>
+</suite> <!-- Suite -->

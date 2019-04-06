@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13261" started-at="2019-04-06T08:28:58Z" finished-at="2019-04-06T08:29:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13261" started-at="2019-04-06T08:28:58Z" finished-at="2019-04-06T08:29:12Z">
+      <class name="scripts.AllGooglepageLinks">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:scripts.AllGooglepageLinks@4c70fda8]" name="beforeMethod" is-config="true" duration-ms="4518" started-at="2019-04-06T08:28:58Z" finished-at="2019-04-06T08:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="waitTest()[pri:0, instance:scripts.AllGooglepageLinks@4c70fda8]" name="waitTest" duration-ms="8475" started-at="2019-04-06T08:29:03Z" finished-at="2019-04-06T08:29:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:scripts.AllGooglepageLinks@4c70fda8]" name="afterMethod" is-config="true" duration-ms="218" started-at="2019-04-06T08:29:11Z" finished-at="2019-04-06T08:29:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- scripts.AllGooglepageLinks -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
